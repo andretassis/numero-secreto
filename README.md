@@ -1,1 +1,1 @@
-# numero-secreto
+Projeto desenvolvido para a Formação em Front-End da Alura.
